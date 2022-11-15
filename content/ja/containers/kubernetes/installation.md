@@ -64,7 +64,7 @@ Datadog Operator を使用するには、次の前提条件が必要です。
 
 ## Operator を使用して Agent をデプロイする
 
-最小限のステップ数で Operator を使用して Datadog Agent をデプロイするには、[`datadog-operato`][4] Helm チャートを使用します。手順は次のとおりです。
+最小限のステップ数で Operator を使用して Datadog Agent をデプロイするには、[`datadog-operator`][4] Helm チャートを使用します。手順は次のとおりです。
 
 1. [Datadog Operator][5] をインストールします:
 
